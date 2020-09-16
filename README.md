@@ -1,7 +1,6 @@
 Role Name
 =========
-
-A brief description of the role goes here.
+Installs sublime text on your local machine
 
 Requirements
 ------------
